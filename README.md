@@ -1,2 +1,2 @@
 # NAB_NGINX_project
-Nginx multi-AZ AWS project
+nginx multi-AZ AWS project created with Terraform
